@@ -82,4 +82,55 @@ D:\_articles\_beanAfrica\scripts>[0K[?25hg[0Ki[0Ka[0K[38G[37G[?25lD:\_a
 [0K[?25herror: did you mean `--all` (with two dashes ?)[0K[?25l
 [0K[?25h]0; [?25l
 D:\_articles\_beanAfrica\scripts>[0K[?25hg[0Ki[0Kt[0K[38G[?25lD:\_articles\_beanAfrica\scripts>git a[0K[?25hd[0Kd[0K[42G[?25lD:\_articles\_beanAfrica\scripts>git add -[0K[?25h-[0Ka[0Kl[0Kl[0K[?25l
+[0K[?25h]0;  - git  add --allwarning: LF will be replaced by CRLF in .Rhistory.[0K[?25l
+The file will have its original line endings in your working directory[0K
+[0K[?25h[?25lwarning: LF will be replaced by CRLF in .Rproj.user/463FE/sources/s-36D299CD/27B2BC75.[0K[2G[?25h[?25l
+The file will have its original line endings in your working directory[0K
+[0K[?25h]0; [?25l
+D:\_articles\_beanAfrica\scripts>[0K[?25hg[0Ki[0Kt[0K[38G[?25lD:\_articles\_beanAfrica\scripts>git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[45G[?25lD:\_articles\_beanAfrica\scripts>git commit '[0K[?25hm[0K[?25lD:\_articles\_beanAfrica\scripts>git commit '[0K[?25h[?25lD:\_articles\_beanAfrica\scripts>git commit[0K[45G[?25h[?25lD:\_articles\_beanAfrica\scripts>git commit -[0K[?25hm[0K[48G[?25lD:\_articles\_beanAfrica\scripts>git commit -m "[0K[?25hs[0K[?25lD:\_articles\_beanAfrica\scripts>git commit -m "[0K[?25ha[0Kl[0Kl[0K[53G[?25lD:\_articles\_beanAfrica\scripts>git commit -m "all t[0K[?25hh[0Ke[0K[57G[?25lD:\_articles\_beanAfrica\scripts>git commit -m "all the s[0K[?25hc[0Kr[0Ki[0Kp[0Kt[0Ks[0K[65G[?25lD:\_articles\_beanAfrica\scripts>git commit -m "all the scripts t[0K[?25hh[0Ka[0Kt[0K[70G[?25lD:\_articles\_beanAfrica\scripts>git commit -m "all the scripts that w[0K[?25he[0K[73G[?25lD:\_articles\_beanAfrica\scripts>git commit -m "all the scripts that we u[0K[?25hs[0Ke[0Kd[0K[[0K[79G[78G[?25lD:\_articles\_beanAfrica\scripts>git commit -m "all the scripts that we used[0K[?25h"[0K]0;  - git  commit -m "all the scripts that we used"[?25l
+[0K[?25h]0; [master (root-commit) c4e8608] all the scripts that we used[0K[?25l
+ 28 files changed, 3867 insertions(+)[0K
+ create mode 100644 .Rhistory[0K
+ create mode 100644 .Rproj.user/463FE/console06/1734D58E[0K
+ create mode 100644 .Rproj.user/463FE/console06/INDEX001[0K
+ create mode 100644 .Rproj.user/463FE/sources/s-36D299CD/27B2BC75[0K
+ create mode 100644 .Rproj.user/463FE/sources/s-36D299CD/27B2BC75-contents[0K
+ create mode 100644 .Rproj.user/463FE/sources/s-36D299CD/lock_file[0K
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names[0K
+ create mode 100644 2.1.Extrac_raster_por_mascara_InputGrid_Ok.py[0K
+ create mode 100644 Analysis/Anomalies.R[0K
+ create mode 100644 Analysis/Anomalies_Version2.R[0K
+ create mode 100644 Analysis/Calculate_mean_GCM.R[0K
+ create mode 100644 Analysis/Changes_areas_suitability_1.R[0K
+ create mode 100644 L-Run-EcoCrop-Current_GrowingSeason.R[0K
+ create mode 100644 L-Run-EcoCrop-Current_multiple_crops.R[0K
+ create mode 100644 L-Run-EcoCrop-Current_one_crop.R[0K
+ create mode 100644 L-Run-EcoCrop-Future.R[0K
+ create mode 100644 L-Run-EcoCrop-Future_cooper.R[0K
+ create mode 100644 scripts.Rproj[0K
+ create mode 100644 src/EcoCrop-model.R[0K
+ create mode 100644 src/EcoCrop-model_1.R[0K
+ create mode 100644 src/createMask.R[0K
+ create mode 100644 src/futureRuns.tmp.R[0K
+ create mode 100644 src/impacts.R[0K
+ create mode 100644 src/suitMerge.R[0K
+ create mode 100644 src/uncertainty.R[0K
+ create mode 100644 srf/EcoCrop-model_1.R[0K
+ create mode 100644 srf/impacts.R[0K
+ create mode 100644 srf/uncertainty.R[0K
+[0K
+D:\_articles\_beanAfrica\scripts>[0K[?25hg[0Ki[0Kt[0K[38G[?25lD:\_articles\_beanAfrica\scripts>git r[0K[?25he[0Km[0Ko[0Kt[0Ke[0K[45G[?25lD:\_articles\_beanAfrica\scripts>git remote a[0K[?25hd[0Kd[0K[49G[?25lD:\_articles\_beanAfrica\scripts>git remote add o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[56G[?25lD:\_articles\_beanAfrica\scripts>git remote add origin https://github.com/fabiolexcastro/beanResearch.git[0K[?25h]0;  - git  remote add origin https://github.com/fabiolexcastro/beanResearch.git[?25l
+[0K[?25h]0; [?25l
+D:\_articles\_beanAfrica\scripts>[0K[?25hg[0Ki[0Kt[0K[38G[?25lD:\_articles\_beanAfrica\scripts>git p[0K[?25hu[0Ks[0Kh[0K[43G[?25lD:\_articles\_beanAfrica\scripts>git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[50G[?25lD:\_articles\_beanAfrica\scripts>git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K]0;  - git  push origin master[?25l
+[0K[?25hEnumerating objects: 35, done.[0K[?25l
+Counting objects:   2% (1/35)[0K[1G[?25hCounting objects: 100% (35/35), done.[0K[?25l
+Delta compression using up to 8 threads[0K
+Compressing objects:  70% (22/31)[0K[1G[?25hCompressing objects: 100% (31/31), done.[0K[?25l
+Writing objects:  77% (27/35)[0K[1G[?25hWriting objects: 100% (35/35), 22.89 KiB | 868.00 KiB/s, done.[0K[?25l
+Total 35 (delta 5), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (5/5), done.[0K[?25l
+[0K[?25hTo https://github.com/fabiolexcastro/beanResearch.git[0K[?25l
+ * [new branch]      master -> master[0K
+[0K[?25h]0; [?25l
+D:\_articles\_beanAfrica\scripts>[0K[?25hg[0Ki[0Kt[0K[38G[?25lD:\_articles\_beanAfrica\scripts>git a[0K[?25hd[0Kd[0K[42G[?25lD:\_articles\_beanAfrica\scripts>git add a[0K[?25hl[0Kl[0K[?25lD:\_articles\_beanAfrica\scripts>git add al[0K[?25h[?25lD:\_articles\_beanAfrica\scripts>git add a[0K[?25h[?25lD:\_articles\_beanAfrica\scripts>git add[0K[42G[?25h[?25lD:\_articles\_beanAfrica\scripts>git add '[0K[?25ha[0Kl[0K[?25lD:\_articles\_beanAfrica\scripts>git add 'a[0K[?25h[?25lD:\_articles\_beanAfrica\scripts>git add '[0K[?25h[?25lD:\_articles\_beanAfrica\scripts>git add[0K[42G[?25h[?25lD:\_articles\_beanAfrica\scripts>git add -al[0K[?25h[?25lD:\_articles\_beanAfrica\scripts>git add -a[0K[?25h-[0K-[0K[?25lD:\_articles\_beanAfrica\scripts>git add -a-[0K[?25h[?25lD:\_articles\_beanAfrica\scripts>git add -a[0K[?25h[?25lD:\_articles\_beanAfrica\scripts>git add -[0K[?25h-[0Ka[0Kl[0Kl[0K[?25l
 [0K[?25h]0;  - git  add --all
